@@ -1,0 +1,7 @@
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\bin\Debug\GameConsole.exe.config
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\bin\Debug\GameConsole.exe
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\bin\Debug\GameConsole.pdb
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\obj\Debug\GameConsole.exe
+C:\Users\ynchonon\Documents\dev\Pluralsight\WorkingWithNullsInCSharp_Plrsght\GameConsole\obj\Debug\GameConsole.pdb
